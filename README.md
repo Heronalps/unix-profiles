@@ -17,6 +17,7 @@ First, clone this repository wherever you like and cd into it.
 ~/github/profiles/ $ ln -s ~/github/profiles/vimrc ~/.vim_runtime
 ~/github/profiles/ $ cd ~/.vim_runtime
 ~/.vim_runtime/ $ bash install_awesome_vimrc.sh
+source ~/Downloads/unix-profiles/bash.bashrc
 ```
 
 ## Inspirations
