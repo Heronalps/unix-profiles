@@ -12,10 +12,10 @@ go to [amix](https://github.com/amix) and the collaborators on that repo.
 First, clone this repository wherever you like and cd into it.
 
 ```bash
-~/github/ $ git clone git@github.com:ncbrown/profiles.git
-~/github/ $ cd profiles/
-~/github/profiles/ $ ln -s ~/github/profiles/vimrc ~/.vim_runtime
-~/github/profiles/ $ cd ~/.vim_runtime
+~/Downloads/ $ git clone https://github.com/Heronalps/unix-profiles.git
+~/Downloads/ $ cd unix-profiles/
+~/Downloads/unix-profiles/ $ ln -s ~/Downloads/unix-profiles/vimrc ~/.vim_runtime
+~/Downloads/unix-profiles/ $ cd ~/.vim_runtime
 ~/.vim_runtime/ $ bash install_awesome_vimrc.sh
 source ~/Downloads/unix-profiles/bash.bashrc
 ```
