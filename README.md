@@ -21,7 +21,6 @@ source ~/Downloads/unix-profiles/bash.bashrc
 ```
 Create bash\_profile in ~/ directory and add ``` source ~/Downloads/unix-profiles/bash.bashrc ```
 
-
 ## Inspirations
 
 * .vimrc from [amix/vimrc](https://github.com/amix/vimrc) because it is well structured, useful, and pretty
