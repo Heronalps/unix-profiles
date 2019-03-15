@@ -19,6 +19,8 @@ First, clone this repository wherever you like and cd into it.
 ~/.vim_runtime/ $ bash install_awesome_vimrc.sh
 source ~/Downloads/unix-profiles/bash.bashrc
 ```
+Create bash\_profile in ~/ directory and add ``` source ~/Downloads/unix-profiles/bash.bashrc ```
+
 
 ## Inspirations
 
