@@ -89,7 +89,7 @@ alias gri='git rebase --interactive'
 alias grm='git rm'
 
 alias path='echo -e ${PATH//:/\\n}'
-alias myip='curl ip.appspot.com && echo'
+alias myip='curl ifconfig.me && echo'
 # extract: Extract most know archives with one command
 # ---------------------------------------------------------
 extract () {
