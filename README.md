@@ -21,6 +21,14 @@ source ~/Downloads/unix-profiles/bash.bashrc
 ```
 Create bash\_profile in ~/ directory and add ``` source ~/Downloads/unix-profiles/bash.bashrc ```
 
+```$ bash```
+
+Generate a new bash shell without sourcing .bash_profile
+
+```source .bash_profile```
+
+Solve the problem of parse_git_branch not found
+
 ## Inspirations
 
 * .vimrc from [amix/vimrc](https://github.com/amix/vimrc) because it is well structured, useful, and pretty
