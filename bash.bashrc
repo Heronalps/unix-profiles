@@ -76,6 +76,10 @@ export GREP_OPTIONS='--color=auto'
 # If we've forgotten to authenticate, this makes sure we ssh-add right away.
 alias ssh='if [ "$(ssh-add -l)" = "The agent has no identities." ]; then ssh-add; fi; /usr/bin/ssh "$@"'
 
+# Kubernetes related
+alias k='kubectl'
+alias kl='kubeless'
+
 # Git related
 alias gs='git status'
 alias gc='git commit'
